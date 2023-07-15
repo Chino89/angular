@@ -1,0 +1,20 @@
+.table-container {
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+td {
+  width: 40%;
+}
+
+td.delete {
+  width: 10%;
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin: 1em;
+}
